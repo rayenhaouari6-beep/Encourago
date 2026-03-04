@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Encourago - À propos</title>
+<style>
+body {
+    margin:0; font-family:Arial,sans-serif;
+    background-image: url("https://images.unsplash.com/photo-1503676260728-1c00da094a0b?auto=format&fit=crop&w=1200&q=60");
+    background-size: cover;
+    background-position: center;
+}
+
+header {background-color:#52b788; color:white; text-align:center; padding:20px;}
+nav {background-color:#d8f3dc; padding:12px; text-align:center;}
+nav a {margin:0 15px; text-decoration:none; color:#1b4332; font-weight:bold;}
+nav a:hover {text-decoration:underline;}
+.container {max-width:700px; margin:20px auto; padding:15px; background:rgba(255,255,255,0.9); border-radius:12px; box-shadow:0 3px 8px rgba(0,0,0,0.1);}
+footer {text-align:center; font-size:12px; padding:15px; background-color: rgba(216,243,220,0.9);}
+</style>
+</head>
+<body>
+
+<header>
+<h1>Encourago</h1>
+</header>
+
+<nav>
+<a href="index.html">Accueil</a>
+<a href="apropos.html">À propos</a>
+<a href="regles.html">Règles</a>
+</nav>
+
+<div class="container">
+<h2>À propos</h2>
+<p>Encourago est un projet scolaire visant à améliorer le moral des élèves. Il permet de partager des messages positifs et de renforcer l'esprit de communauté.</p>
+</div>
+
+<footer>
+Encourago – Projet scolaire bienveillant
+</footer>
+
+</body>
+</html>
